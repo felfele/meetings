@@ -1,2 +1,2 @@
 # meetings
-Written documentation of Felfelfe meetings.
+Written documentation of Felfele meetings.
